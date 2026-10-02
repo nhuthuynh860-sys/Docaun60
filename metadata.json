@@ -1,0 +1,6 @@
+{
+  "name": "Blogger Theme Studio - Production XML Generator",
+  "description": "Production-ready, SEO-optimized, fully responsive Blogger (Blogspot) XML theme generator and interactive live simulator with dark mode toggle and semantic HTML5.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
